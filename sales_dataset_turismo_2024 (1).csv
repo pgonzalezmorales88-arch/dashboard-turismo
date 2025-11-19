@@ -1,0 +1,97 @@
+product_id,product_name,category,price,month,units_sold,revenue
+1,City Tour Histórico,Tours,25.0,2024-01,25,625.0
+1,City Tour Histórico,Tours,25.0,2024-02,29,725.0
+1,City Tour Histórico,Tours,25.0,2024-03,17,425.0
+1,City Tour Histórico,Tours,25.0,2024-04,40,1000.0
+1,City Tour Histórico,Tours,25.0,2024-05,15,375.0
+1,City Tour Histórico,Tours,25.0,2024-06,34,850.0
+1,City Tour Histórico,Tours,25.0,2024-07,36,900.0
+1,City Tour Histórico,Tours,25.0,2024-08,53,1325.0
+1,City Tour Histórico,Tours,25.0,2024-09,36,900.0
+1,City Tour Histórico,Tours,25.0,2024-10,24,600.0
+1,City Tour Histórico,Tours,25.0,2024-11,27,675.0
+1,City Tour Histórico,Tours,25.0,2024-12,31,775.0
+2,Tour Gastrónomico,Tours,40.0,2024-01,25,1000.0
+2,Tour Gastrónomico,Tours,40.0,2024-02,21,840.0
+2,Tour Gastrónomico,Tours,40.0,2024-03,31,1240.0
+2,Tour Gastrónomico,Tours,40.0,2024-04,40,1600.0
+2,Tour Gastrónomico,Tours,40.0,2024-05,22,880.0
+2,Tour Gastrónomico,Tours,40.0,2024-06,46,1840.0
+2,Tour Gastrónomico,Tours,40.0,2024-07,47,1880.0
+2,Tour Gastrónomico,Tours,40.0,2024-08,45,1800.0
+2,Tour Gastrónomico,Tours,40.0,2024-09,38,1520.0
+2,Tour Gastrónomico,Tours,40.0,2024-10,27,1080.0
+2,Tour Gastrónomico,Tours,40.0,2024-11,52,2080.0
+2,Tour Gastrónomico,Tours,40.0,2024-12,37,1480.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-01,57,4275.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-02,71,5325.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-03,35,2625.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-04,82,6150.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-05,60,4500.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-06,113,8475.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-07,67,5025.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-08,81,6075.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-09,34,2550.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-10,67,5025.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-11,42,3150.0
+3,Hotel Boutique (noche),Alojamiento,75.0,2024-12,76,5700.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-01,33,1815.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-02,48,2640.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-03,46,2530.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-04,30,1650.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-05,26,1430.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-06,29,1595.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-07,63,3465.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-08,30,1650.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-09,22,1210.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-10,18,990.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-11,33,1815.0
+4,Paquete Aventura (half-day),Tours,55.0,2024-12,33,1815.0
+5,Cena Tradicional,Comida,18.0,2024-01,68,1224.0
+5,Cena Tradicional,Comida,18.0,2024-02,56,1008.0
+5,Cena Tradicional,Comida,18.0,2024-03,62,1116.0
+5,Cena Tradicional,Comida,18.0,2024-04,92,1656.0
+5,Cena Tradicional,Comida,18.0,2024-05,61,1098.0
+5,Cena Tradicional,Comida,18.0,2024-06,154,2772.0
+5,Cena Tradicional,Comida,18.0,2024-07,154,2772.0
+5,Cena Tradicional,Comida,18.0,2024-08,89,1602.0
+5,Cena Tradicional,Comida,18.0,2024-09,74,1332.0
+5,Cena Tradicional,Comida,18.0,2024-10,127,2286.0
+5,Cena Tradicional,Comida,18.0,2024-11,80,1440.0
+5,Cena Tradicional,Comida,18.0,2024-12,101,1818.0
+6,Souvenir Pack,Productos,12.0,2024-01,39,468.0
+6,Souvenir Pack,Productos,12.0,2024-02,55,660.0
+6,Souvenir Pack,Productos,12.0,2024-03,37,444.0
+6,Souvenir Pack,Productos,12.0,2024-04,23,276.0
+6,Souvenir Pack,Productos,12.0,2024-05,32,384.0
+6,Souvenir Pack,Productos,12.0,2024-06,80,960.0
+6,Souvenir Pack,Productos,12.0,2024-07,58,696.0
+6,Souvenir Pack,Productos,12.0,2024-08,69,828.0
+6,Souvenir Pack,Productos,12.0,2024-09,51,612.0
+6,Souvenir Pack,Productos,12.0,2024-10,38,456.0
+6,Souvenir Pack,Productos,12.0,2024-11,42,504.0
+6,Souvenir Pack,Productos,12.0,2024-12,62,744.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-01,25,750.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-02,21,630.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-03,41,1230.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-04,24,720.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-05,37,1110.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-06,60,1800.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-07,54,1620.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-08,36,1080.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-09,42,1260.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-10,51,1530.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-11,24,720.0
+7,Transporte Aeropuerto,Servicios,30.0,2024-12,46,1380.0
+8,Guía Privado (hora),Servicios,20.0,2024-01,57,1140.0
+8,Guía Privado (hora),Servicios,20.0,2024-02,43,860.0
+8,Guía Privado (hora),Servicios,20.0,2024-03,49,980.0
+8,Guía Privado (hora),Servicios,20.0,2024-04,48,960.0
+8,Guía Privado (hora),Servicios,20.0,2024-05,54,1080.0
+8,Guía Privado (hora),Servicios,20.0,2024-06,60,1200.0
+8,Guía Privado (hora),Servicios,20.0,2024-07,79,1580.0
+8,Guía Privado (hora),Servicios,20.0,2024-08,55,1100.0
+8,Guía Privado (hora),Servicios,20.0,2024-09,25,500.0
+8,Guía Privado (hora),Servicios,20.0,2024-10,52,1040.0
+8,Guía Privado (hora),Servicios,20.0,2024-11,71,1420.0
+8,Guía Privado (hora),Servicios,20.0,2024-12,29,580.0
